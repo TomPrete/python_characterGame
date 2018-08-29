@@ -1,4 +1,4 @@
-# CopyCat Gaming Inc.
+# Character Gaming Inc.
 
 I'm currently learning Python and decided to use Python to run this application in the Command Line
 
